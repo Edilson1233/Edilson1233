@@ -73,34 +73,36 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia I
 
 ---
 
-### 📊 Estatísticas
+### 📫 Como me encontrar:
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Edilson1233&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson1233&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
----
-
-## 📫 Como me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edilson-chivinge-b5714b28b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://linkedin.com/in/edilson-chivinge-b5714b28b)
 [![Email](https://img.shields.io/badge/Email-seuemail%40gmail.com-red?logo=gmail)](mailto:edilsonchivinge499@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/Edilson1233)
 
 ---
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left"
+    alt="GitHub Stats" 
+    height="190" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Edilson1233&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  
+  <img 
+    align="left"  
+    alt="GitHub Stats" 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson1233&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
+</p>
+
+---
+
 💡 **Buscando oportunidades para aplicar meus conhecimentos e crescer profissionalmente!**
+
 
