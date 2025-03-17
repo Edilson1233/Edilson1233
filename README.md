@@ -101,8 +101,4 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia I
   
 </p>
 
----
-
-💡 **Buscando oportunidades para aplicar meus conhecimentos e crescer profissionalmente!**
-
 
