@@ -69,7 +69,7 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia I
 #### 📢 Sistema de Alertas de Desastres Naturais
 - 🚀 Desenvolvimento de uma aplicação para alertas climáticos
 - 🔧 Tecnologias: **Java, MySQL**
-- 🔗 [Repositório do projeto](#)
+- 🔗 [Repositório do projeto](https://github.com/Edilson1233/beprepared)
 
 ---
 
