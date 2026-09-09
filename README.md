@@ -128,16 +128,15 @@ Backend application designed to help users stay informed during natural disaster
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/Edilson1233/Edilson1233/main/profile/stats.svg?v=2"
+  <img 
+    width="48%"
+    src="https://raw.githubusercontent.com/Edilson1233/Edilson1233/main/profile/stats.svg?v=3"
     alt="Edílson's GitHub Stats"
   />
-
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/Edilson1233/Edilson1233/main/profile/top-langs.svg?v=2"
-    alt="Edílson's Top Languages"
+  <img 
+    width="48%"
+    src="https://raw.githubusercontent.com/Edilson1233/Edilson1233/main/profile/top-langs.svg?v=3"
+    alt="Most Used Languages"
   />
 </p>
 
