@@ -127,8 +127,6 @@ Backend application designed to help users stay informed during natural disaster
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img
     width="49%"
