@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edílson Paulo Chivinge</h1>
 
-<h3 align="center">Full Stack Developer | Java & Spring Boot | React</h3>
+<h3 align="center">Full Stack Developer | Java • Spring Boot • React | Computer Engineering | Mozambique 🇲🇿</h3>
 
 <p align="center">
   <a href="https://github.com/Edilson1233">
@@ -127,9 +127,20 @@ Backend application designed to help users stay informed during natural disaster
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="180" src="./profile/stats.svg" alt="Edílson's GitHub Stats"/>
-  <img height="180" src="./profile/top-langs.svg" alt="Most Used Languages"/>
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/Edilson1233/Edilson1233/main/profile/stats.svg?v=2"
+    alt="Edílson's GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/Edilson1233/Edilson1233/main/profile/top-langs.svg?v=2"
+    alt="Edílson's Top Languages"
+  />
 </p>
 
 ---
