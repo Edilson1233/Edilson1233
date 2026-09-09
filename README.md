@@ -1,104 +1,159 @@
-# 👨‍💻 [Edílson Paulo Chivinge]
+<h1 align="center">Hi 👋, I'm Edílson Paulo Chivinge</h1>
 
-**`Desenvolvedor FullStack`**
+<h3 align="center">Full Stack Developer | Java & Spring Boot | React</h3>
 
-Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia Informática. Tenho experiência em Java, bancos de dados MySQL e desenvolvimento de APIs RESTful. Além disso, estou explorando o desenvolvimento frontend e mobile para expandir minhas habilidades.
-
-<p align="left">
-    <a href="https://github.com/seu-usuario">
-        <img 
-            alt="GitHub seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Edilson1233?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://github.com/Edilson1233">
+    <img src="https://komarev.com/ghpvc/?username=Edilson1233&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Edilson1233?tab=followers">
+    <img src="https://img.shields.io/github/followers/Edilson1233?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+## 👨‍💻 About Me
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+I'm a **Computer Engineering student from Mozambique 🇲🇿** focused on building modern, secure and scalable software solutions.
 
-<br/>
-<br/>
+My main focus is **backend development with Java and Spring Boot**, while also working with **React** to build complete full-stack applications.
+
+I enjoy turning real-world problems into software, especially projects involving APIs, databases, automation, integrations and scalable system architecture.
+
+* 🔭 Building **full-stack and backend applications**
+* ☕ Focused on **Java & Spring Boot**
+* ⚛️ Building modern interfaces with **React & Tailwind CSS**
+* 🗄️ Working with **PostgreSQL, MySQL and relational databases**
+* 🐳 Exploring **Docker, cloud infrastructure and scalable architectures**
+* 🔐 Interested in **API security, authentication and backend architecture**
+* 🚀 Always learning by building real-world projects
 
 ---
 
-### 📌 Projetos Destacados
+## 🛠️ Tech Stack
 
-#### 📢 Sistema de Alertas de Desastres Naturais
-- 🚀 Desenvolvimento de uma aplicação para alertas climáticos
-- 🔧 Tecnologias: **Java, MySQL**
-- 🔗 [Repositório do projeto](https://github.com/Edilson1233/beprepared)
-
----
-
-### 📫 Como me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://linkedin.com/in/edilson-chivinge-b5714b28b)
-[![Email](https://img.shields.io/badge/Email-seuemail%40gmail.com-red?logo=gmail)](mailto:edilsonchivinge499@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/Edilson1233)
-
----
-
-### 📊 Estatísticas
+### Backend
 
 <p>
-  <img 
-    align="left"
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Edilson1233&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    align="left"  
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson1233&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" title="Spring Boot"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
 </p>
 
+### Frontend
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" title="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" title="AWS"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📡 MegaSaaS — Automated Internet Package Sales
+
+A multi-tenant SaaS platform designed to automate the sale and delivery of mobile internet packages.
+
+**Highlights:**
+
+* WhatsApp integration
+* M-Pesa payment validation
+* Android SMS/USSD automation
+* Multi-tenant architecture
+* Idempotent payment processing
+* REST APIs and internal service communication
+
+**Tech:** `Java 21` `Spring Boot` `Node.js` `PostgreSQL` `REST APIs`
+
+🔗 [View Repository](https://github.com/Edilson1233/TxunaMegas)
+
+---
+
+### 💳 Wallet Management
+
+A mobile-first digital wallet interface focused on modern financial application UX.
+
+**Features:**
+
+* Authentication screens
+* Digital wallet dashboard
+* Transfer flow
+* Transaction review
+* PIN security interface
+* Reusable UI components
+
+**Tech:** `React` `Vite` `Tailwind CSS` `React Router` `JavaScript`
+
+🔗 [View Repository](https://github.com/Edilson1233/wallet-management)
+
+---
+
+### 🌍 BePrepared — Disaster Alert System
+
+Backend application designed to help users stay informed during natural disasters through alerts and location-based information.
+
+**Tech:** `Java` `Spring Boot` `REST API` `Docker`
+
+🔗 [View Repository](https://github.com/Edilson1233/beprepared)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="./profile/stats.svg" alt="Edílson's GitHub Stats"/>
+  <img height="180" src="./profile/top-langs.svg" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/edilson-chivinge-b5714b28b">
+  <img src="https://img.shields.io/badge/LinkedIn-Edílson%20Chivinge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:edilsonchivinge499@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Edilson1233">
+  <img src="https://img.shields.io/badge/GitHub-Edilson1233-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning and turning ideas into software. 🚀</i>
+</p>
